@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Detectify**
+- 🔭 I’m currently working on a new project
 
 - 👯 I’m looking to collaborate on **AI-ML Projects**
 
