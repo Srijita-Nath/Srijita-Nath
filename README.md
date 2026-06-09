@@ -43,15 +43,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Srijita-Nath&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
